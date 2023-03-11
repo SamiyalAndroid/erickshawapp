@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1018209107012",
+    "project_id": "erickshaw-62853",
+    "storage_bucket": "erickshaw-62853.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018209107012:android:a3df04ee254297e8ed5011",
+        "android_client_info": {
+          "package_name": "com.example.erickshawapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018209107012-rksi962gf6gbp5qr9u2bg6u15eb47k04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCszzXJ15-yQ-mWSZOiYve-OE5a5bGLb3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018209107012-rksi962gf6gbp5qr9u2bg6u15eb47k04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018209107012:android:01912d6979b4a63bed5011",
+        "android_client_info": {
+          "package_name": "com.sam.erickshawapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018209107012-534964f5stfo8dodfis5jqov5dio6rst.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sam.erickshawapp",
+            "certificate_hash": "e915545c6103b76f11c391f54edb50a7f9f3be99"
+          }
+        },
+        {
+          "client_id": "1018209107012-rksi962gf6gbp5qr9u2bg6u15eb47k04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCszzXJ15-yQ-mWSZOiYve-OE5a5bGLb3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018209107012-rksi962gf6gbp5qr9u2bg6u15eb47k04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
